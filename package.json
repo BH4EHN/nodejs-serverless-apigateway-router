@@ -1,0 +1,11 @@
+{
+  "name": "serverless-apigateway-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/router.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
