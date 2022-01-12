@@ -5,6 +5,7 @@ export interface HttpEventRequest {
     path: string;
     method: string;
     headers: StringKeyValueDict;
+    pathParameters: StringKeyValueDict;
     queryStringParameters: StringKeyValueDict;
     body: string;
     isBodyBase64: boolean;
